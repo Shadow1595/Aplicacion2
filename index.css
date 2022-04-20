@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+	background: ;
+
+}
+
+.contenedor{
+	width: 310px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+	background: white;
+	position: relative;
+}
+
+.principal{
+	margin: 0 24px;
+	width: calc(100% - 48px);
+
+}
+
+h2{
+	margin-left: 40px;
+	margin-top: -50px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+}
+
+p{
+	width: 315px;
+	height: 48px;
+	left: calc(50% - 322px/2);
+	top: 400px;
+	font-family: 'Poppins', sans-serif;
+	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	color: #A3A7BA;
+
+}
+
+
+
+.abc{
+	margin-top: 100px;
+	margin-left: 10px;
+}
+
+.punto{
+	
+	margin-left: 70px;
+}
+
+.play{
+	background: url(file:///C:/Users/a06/Downloads/Ellipse%2021.png);
+	width: 61px;
+	height: 55px;
+	position: absolute;
+	right: 5px;
+	top: 470px;
+	border: 0;
+}	
